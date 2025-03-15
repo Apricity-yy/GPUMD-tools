@@ -1,4 +1,4 @@
-# Machine Learning Potential Training Workflow: Data Preparation  for AIMD (Phase1)
+# Machine Learning Potential Training Workflow: Data Preparation from AIMD (Phase1)
 
 This workflow outlines the fundamental steps to generate training datasets for machine-learned interatomic potentials (MLIPs) from AIMD. The pipeline focuses on creating diverse and representative atomic configurations with accurate quantum mechanical reference data.
 
