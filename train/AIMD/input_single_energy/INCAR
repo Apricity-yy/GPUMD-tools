@@ -1,0 +1,16 @@
+SYSTEM =   LiTaO
+PREC   =   Accurate        
+ISTART =   0        
+ICHARG =   2        
+ISPIN  =   1        
+ENCUT  =   600   
+ALGO  =   Normal
+ADDGRID =  .T.
+EDIFF  =   1.0e-8 
+IVDW = 11 
+ISMEAR =   0
+SIGMA   =   0.05
+LREAL  =   .F.
+LWAVE  =   .F.      
+LCHARG =   .F.
+NPAR   =   4
