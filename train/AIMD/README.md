@@ -24,7 +24,7 @@ This workflow outlines the fundamental steps to generate training datasets for m
    - **Highly accurate single-point energy calculations are performed on all perturbed structure batches (sh in_job.sh; sh jisuan.sh).**
    - **Check that high-precision single-point energy calculations for all perturbed structures converge normally (sh check.sh).**
 7. **Build training set1**
-Extract atomic positions, energies, and forces from the batch DFT calculations to generate Training Set 1.(using the script single_energy2xyz.sh in vasp2xyz floder)
+   Extract atomic positions, energies, and forces from the batch DFT calculations to generate Training Set 1.(using the script single_energy2xyz.sh in vasp2xyz floder)
 ## Implementation Notes
 - Ensure AIMD simulation length provides sufficient phase-space coverage
 - Adjust perturbation magnitudes based on system properties
